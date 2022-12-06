@@ -1,0 +1,17 @@
+{
+  "RepoName": "Test Repo",
+  "News": [
+    {
+      "cardType": 0,
+      "imageURL": "https://someurl.to.image.png",
+      "date": 1665757481000,
+      "timeUntil": 0,
+      "topperText": "Test Article from Repo",
+      "iconURL": "https://someurl.to.icon.png",
+      "author": "Micheal Jackson",
+      "headline": "This is a headline!",
+      "subtitle": "Awesome subtitle.",
+      "text:": "Article text"
+    }
+  ]
+}
